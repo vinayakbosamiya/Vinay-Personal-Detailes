@@ -1,0 +1,121 @@
+private member 
+visibility : public 
+ans -> not inherite
+
+public member 
+visibility : public 
+ans -> inherite
+
+proteceted member 
+visibility : public 
+ans -> protected
+
+-------------------------
+private member 
+visibility : private 
+ans -> not inherite
+
+public member 
+visibility : private
+ans -> inherite but private member for derived class 
+
+
+protected member 
+visibility : private
+ans -> inherite but private member for derived class 
+
+---------------------------------
+
+
+private member 
+visibility : protected 
+ans -> not inherited
+
+
+public member 
+visibility : protected
+ans -> protected
+
+
+protected member 
+visibility : protected
+ans -> protected
+
+
+
+
+
+
+Topic: Benefits and Applications of OOP:-
+1) Modularity: OOP allows breaking down complex problems into smaller,
+manageable objects, making code easier to understand, develop, and
+maintain.
+2) Reusability: OOP facilitates code reuse through inheritance, allowing
+developers to build upon existing code without rewriting it.
+3) Encapsulation: Encapsulation is the wrapping up or binding of data and
+the methods or procedures that operate on the data into a single entity
+known as object.
+4) Abstraction: In terms of programming development for OOP, abstraction
+is the principle with which a developer can concentrate on the object's
+primary function and hide unnecessary details.
+7) Polymorphism: Enabling objects of different classes to respond to the
+same method call in their own way, increasing flexibility and code
+adaptability.
+5) Easier Maintenance: OOP's modular structure and code reusability
+simplify the process of updating and maintaining software.
+
+6) Better Code organization and productivity: Reusable code and well-
+defined interfaces allow faster development cycles and increased
+
+productivity.
+7) Inheritance: OOP supports inheritance, reducing redundancy by reusing
+existing code.
+8) Scalability: Scalability refers to a system's ability to handle increasing
+workloads or user demands without significant performance degradation
+or increased costs. It means the system can grow or adapt to handle more
+data, users, or transactions efficiently as needed.
+9) Collaborative development: OOP encourages collaborative development
+since different teams work in parallel on different areas of the code base.
+Modularity and encapsulation allow developers to work on their
+particular regions with conflicting changes. This makes it easy to divide
+work and create a smooth workflow between coworkers.
+Applications of OOP:
+1) Software Development: OOP is fundamental for building complex and large
+scale software system. Its modular structure based on objects and classes,
+allows for the organized, reusable and easily maintainable code.
+2) Game Development: OOP is crucial in game development because games
+often involve numerous entities (characters, objects, etc.) With specific
+attributes and behaviors. OOP allows developers to model these entities as
+objects and their interactions using classes, making the development process
+more structured and manageable.
+3) Web Development: Many web development languages includes OOP
+principles. It enables the creation of modular and scalable web applications,
+where components like user interface and data structures are encapsulated
+within objects, improving organization and maintainability.
+4) Mobile App Development: OOP facilitates the development of feature-rich
+and platform independent mobile applications. It enables developers to build
+engaging and efficient apps for various mobile platforms.
+5) Real Time Systems: The term “real-time system” refers to any information
+processing system with hardware and software components that perform
+real-time application functions and can respond to events within predictable
+and specific time constraints.
+
+6) Hypertext and Hyper Media: Hypertext is similar to regular text as it can
+be stored, searched, and edited easily. Hypermedia on the other hand is a
+superset of hypertext. OOP also helps in laying the framework for hypertext
+and hypermedia.
+7) Object oriented databases: The databases try to maintain a direct
+correspondence between the real world and database object in order to let
+the object retain its identity and integrity.
+
+8) AI and Expert System: These are computer application that is developed to
+solve complex problems which are far beyond the human brain. OOP helps
+to develop such an AI expert System.
+9) Office automation systems: These include formal as well as informal
+electronic systems that primarily concerned with information sharing and
+communication to and from people inside and outside the organization.
+OOP also help in making office automation principle.
+10) Simulation and Modelling: Use of models, prototypes to develop data as
+basis for making architectural decisions. Example: Weather Forecasting
+
+"explain those all with simple english"
